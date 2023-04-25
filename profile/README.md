@@ -1,6 +1,6 @@
 # Stainless ✨
 
-We're is building the platform for high-quality, easy-to-use APIs.
+We're building the platform for high-quality, easy-to-use APIs.
 
 You can think of us like Stripe's API platform for any REST API, but our ambitions are a little bigger, and our starting point is a little narrower.
 
