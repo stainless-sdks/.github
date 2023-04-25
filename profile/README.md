@@ -10,9 +10,7 @@ We provide robust & polished SDKs for your REST API.
 
 You send us your OpenAPI spec, and we generate packages in all the major languages and publish them to npm/pypi/etc (think `npm install your-company`). These SDKs are world-class: you get an idiomatic wrapper with autocomplete, types, auto-pagination, auto-retry with backoff, etc.
 
-Great SDKs for your API drive faster integration, broader feature adoption, quicker upgrades, and trust in your engineering quality.
-
-Our founder [Alex](https://linkedin.com/in/alexrattray) previously built a version of this at Stripe for their SDKs, including a patent-pending codegen system and [TypeScript for the Stripe API](https://twitter.com/stripe/status/1222944951853432832).
+Our team previously built a version of this at Stripe for their SDKs, including a patent-pending codegen system and [TypeScript for the Stripe API](https://twitter.com/stripe/status/1222944951853432832).
 
 You can see a few examples of SDKs we produce here:
 
