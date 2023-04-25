@@ -1,4 +1,4 @@
-# Stainless SDKs ✨
+# Stainless ✨
 
 We're is building the platform for high-quality, easy-to-use APIs.
 
