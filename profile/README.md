@@ -18,4 +18,4 @@ You can see a few examples of SDKs we produce here:
 - Python: [increase](https://github.com/Increase/increase-python), [modern-treasury](https://github.com/Modern-Treasury/modern-treasury-python)
 - Java: [increase](https://github.com/increase/increase-java), [lithic](https://github.com/lithic-com/lithic-java)
 
-Interested? [Say hi](https://ohr4yel55br.typeform.com/to/asCyswO6).
+Interested? [Say hi](https://www.stainlessapi.com/try).
